@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
+    <string name="Guardar_y_salir">Guardar y Salir</string>
+    <string name="input">Name</string>
 </resources>
