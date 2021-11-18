@@ -2,4 +2,9 @@
     <string name="app_name">SharedPreferences</string>
     <string name="Guardar_y_salir">Guardar y Salir</string>
     <string name="input">Name</string>
+    <string name="guardar_en_la_agenda">Guardar en la agenda</string>
+    <string name="btn_recuperar">Recuperar</string>
+    <string name="et_datos_de_contacto">Datos de contacto</string>
+    <string name="et_ingrese_su_nombre_a_buscar">Ingrese su nombre a buscar</string>
+    <string name="et_ingrese_su_email">Ingrese su email</string>
 </resources>
